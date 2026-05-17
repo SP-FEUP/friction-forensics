@@ -21,10 +21,15 @@ The project integrates:
 
 ## Repository Structure
 ├── code/ # Python and R scripts for data processing and analysis
+
 ├── notebooks/ # Jupyter notebooks reproducing all analyses
+
 ├── models/ # Bayesian hierarchical models (Stan)
+
 ├── tribometer/ # Design files (CAD) and calibration data
+
 ├── data/ # Metadata and documentation
+
 └── README.md
 
 
